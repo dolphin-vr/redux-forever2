@@ -7,7 +7,6 @@ import {
 import TodosList from 'components/TodosList/TodosList';
 
 export const App = ()=>{
-
     return (
       <>
         <Header />
